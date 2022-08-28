@@ -1,0 +1,1 @@
+{"name":"Local: matrix","url":"/home/mosleh/Documents/informatique/cp/cp-problems/codeit/matrix.py","tests":[{"id":1653828547084,"input":"2 3\n1 2 3\n2 4 6","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/home/mosleh/Documents/informatique/cp/cp-problems/codeit/matrix.py","group":"local","local":true}
