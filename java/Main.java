@@ -5,10 +5,9 @@ public class Main {
 	// For fast input output
 	static class Solver {
 		public void solve(FastReader in) throws Exception {
-			String s;
-			while ((s = in.nextLine()) != null) {
-				System.out.println(s);
-			}
+			int s;
+			s = in.nextInt();
+			
 		}
 	}
 
